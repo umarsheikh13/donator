@@ -6,6 +6,7 @@
  * Version: 1.0
  * Author: Umar Sheikh
  * Author URI: http://umarsheikh.co.uk/
+ * License: MIT
  */
 
 
